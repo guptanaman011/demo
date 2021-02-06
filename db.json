@@ -2,17 +2,17 @@
   "posts": [
     {
       "id": 1,
-      "title": "Naman"
+      "title": "Naman",
       "url": "https://i.pinimg.com/236x/09/26/a1/0926a1343138d56cd13b73accb72df6a.jpg"
     },
     {
       "id": 2,
-      "title": "Aastha"
+      "title": "Aastha",
       "url": "https://i.pinimg.com/236x/61/c5/72/61c5722e6d8c8ad34e2834a2eea7eb47.jpg"
     },
     {
       "id": 3,
-      "title": "Sehal"
+      "title": "Sehal",
       "url": "https://i.pinimg.com/236x/16/68/e0/1668e0b52c721d18bb93e59b2f4958f9.jpg"
     }
   ],
